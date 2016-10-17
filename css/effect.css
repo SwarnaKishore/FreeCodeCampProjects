@@ -62,11 +62,16 @@
 
 .grid2 figure h2 {
 	word-spacing: -0.15em;
-	font-weight: 300;
+	text-transform: capitalize;
+	font-size: 100%;
+}
 }
 
 .grid2 figure h2 span {
-	font-weight: 800;
+	
+	font-size: 100%;
+	text-transform: capitalize;
+}
 }
 
 .grid2 figure h2,
@@ -77,6 +82,7 @@
 .grid2 figure p {
 	letter-spacing: 1px;
 	font-size: 68.5%;
+	 text-transform: capitalize;
 }
 
 
