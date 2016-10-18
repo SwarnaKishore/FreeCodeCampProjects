@@ -4,7 +4,7 @@ nav .brand-logo {
 }
 
 nav{
-  background-color: darkgreen;
+  background-color: rgba(38,166,154,1);
 }
 
 .col{font-family:Lora,'Times New Roman',serif;font-size:20px;color:#404040}
@@ -61,7 +61,7 @@ footer.page-footer {
  @media only screen and (max-width : 600px) {
   .parallax-container
  {
- 	color: white;
+ 	color: black;
  }
 }
  nav a.button-collapse
@@ -163,7 +163,7 @@ hr {
 
  
 .fa{
-  background-color: darkgreen;
+  background-color: rgba(38,166,154,1);;
 color:white;
 }
 
@@ -173,6 +173,6 @@ color:white;
 }
 
 footer.page-footer .footer-copyright{
-  background-color: darkgreen;
+  background-color: rgba(38,166,154,1);;
 }
 
